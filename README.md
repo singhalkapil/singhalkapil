@@ -37,9 +37,9 @@
 
 ### 💼 Professional Journey
 
-- **Senior ML Quality Engineer @ ServiceNow** *(2024 – Present)*  
+- **Senior ML Engineer @ ServiceNow** *(Dec 2024 – Aug 2026)*  
   Enhancing enterprise Platform AI Agents & Skills using Glide APIs and JavaScript; optimized concurrent LLM processing by **40%**; architected automated evaluation suites using LLM-as-a-Judge across GPT, Claude, Gemini, and Apriel.
-- **Assistant Vice President @ DBS Bank** *(2020 – 2024)*  
+- **Assistant Vice President @ DBS Bank** *(Oct 2020 – Dec 2024)*  
   Led engineering reliability across high-throughput Fraud Detection and Data Analytics platforms handling real-time financial transactions via Kafka, IBM MQ, and Spark.
 - **Education & Credentials:**  
   - **IIIT Hyderabad:** Post Graduate Certification in AI & Machine Learning *(Capstone: Multimodal CLIP & ViT/GPT-2 Captioning)*  
